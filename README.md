@@ -1,16 +1,65 @@
-## Hi there 👋
+# Alexander Zhuravel
 
-<!--
-**aixonpower8/aixonpower8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure & Cloud Architect
 
-Here are some ideas to get you started:
+Enterprise Infrastructure Architecture
+Storage • Databases • Kubernetes • Hybrid Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Expertise
+
+Enterprise Infrastructure
+Oracle Database Platforms
+Kubernetes Platforms
+Enterprise Storage Architecture
+Hybrid Cloud Architecture
+
+---
+
+## Architecture Programs
+
+• Oracle platform migration (IBM Power → x86)
+• Enterprise storage modernization
+• SAN modernization (Brocade → Cisco MDS)
+• Hybrid cloud architecture (GCP)
+
+---
+
+## Infrastructure Scale
+
+3000+ virtual machines
+
+2+ PB enterprise storage
+
+Petabyte-scale backup platforms
+
+---
+
+## Technologies
+
+Kubernetes
+Oracle
+PostgreSQL
+NetApp ONTAP
+Cisco MDS
+Linux
+AIX
+GCP
+VMware
+
+---
+
+## Architecture Artifacts
+
+Hybrid Cloud Architecture
+
+Enterprise Storage Architecture
+
+Backup Architecture
+
+---
+
+## Contact
+
+LinkedIn
